@@ -95,3 +95,45 @@
 2017-10-04 23:05:41,094 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\test\resources
 2017-10-04 23:05:46,574 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2017-10-04 23:05:49,356 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Knowhow\Documents\4th Year\Workspace1\part1
+2017-10-04 23:05:49,356 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-05 12:49:36,076 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Knowhow\Documents\4th Year\Workspace1\part1
+2017-10-05 12:49:36,077 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-10 15:08:54,826 [Worker-690] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.softwareengineering.assignment1:part1:0.0.1-SNAPSHOT @ C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\pom.xml.
+2017-10-10 15:09:11,506 [Worker-690] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/aduffy29/SoftwareEngAssignment1Part1/-SNAPSHOT/maven-metadata.xml
+2017-10-10 15:09:12,696 [Worker-690] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/aduffy29/SoftwareEngAssignment1Part1/-be7dca60e8-1/SoftwareEngAssignment1Part1--be7dca60e8-1.pom
+2017-10-10 15:09:13,086 [Worker-690] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://jitpack.io/com/github/aduffy29/SoftwareEngAssignment1Part1/-be7dca60e8-1/SoftwareEngAssignment1Part1--be7dca60e8-1.jar
+2017-10-10 15:09:13,368 [Worker-690] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://jitpack.io/com/github/aduffy29/SoftwareEngAssignment1Part1/-be7dca60e8-1/SoftwareEngAssignment1Part1--be7dca60e8-1.jar
+2017-10-10 15:09:17,006 [Worker-690] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:09:17,020 [Worker-690] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\main\resources
+2017-10-10 15:09:17,022 [Worker-690] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:09:17,023 [Worker-690] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\test\resources
+2017-10-10 15:09:20,867 [Worker-689] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:09:20,867 [Worker-689] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\main\resources
+2017-10-10 15:09:20,881 [Worker-689] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:09:20,882 [Worker-689] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\test\resources
+2017-10-10 15:09:39,836 [Worker-689] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Knowhow\Documents\4th Year\Workspace1\part1
+2017-10-10 15:09:39,837 [Worker-689] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2017-10-10 15:09:49,911 [Worker-689] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Knowhow\Documents\4th Year\Workspace1\part1
+2017-10-10 15:09:49,912 [Worker-689] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-10-10 15:09:59,318 [Worker-688] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:09:59,319 [Worker-688] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\main\resources
+2017-10-10 15:09:59,321 [Worker-688] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:09:59,322 [Worker-688] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\test\resources
+2017-10-10 15:10:08,039 [Worker-690] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-10 15:10:11,291 [Worker-690] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.softwareengineering.assignment1:part1:0.0.1-SNAPSHOT @ C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\pom.xml.
+2017-10-10 15:10:12,740 [Worker-690] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /part1/src/main/java
+2017-10-10 15:10:12,741 [Worker-690] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /part1/src/test/java
+2017-10-10 15:10:13,615 [Worker-690] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2017-10-10 15:10:14,070 [Worker-690] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:10:14,071 [Worker-690] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\main\resources
+2017-10-10 15:10:14,074 [Worker-690] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:10:14,074 [Worker-690] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\test\resources
+2017-10-10 15:24:44,532 [Worker-698] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.softwareengineering.assignment1:part1:0.0.1-SNAPSHOT @ C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\pom.xml.
+2017-10-10 15:24:45,114 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:24:45,115 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\main\resources
+2017-10-10 15:24:45,117 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:24:45,117 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\test\resources
+2017-10-10 15:24:46,854 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:24:46,855 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\main\resources
+2017-10-10 15:24:46,857 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:24:46,857 [Worker-698] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Knowhow\Documents\4th Year\Workspace1\part1\src\test\resources
